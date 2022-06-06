@@ -1,5 +1,3 @@
 # gitpodTest-
 
-##ajkfdanf
-ankfd
-alkjdvsmnA
+## gitpod is confusing 
